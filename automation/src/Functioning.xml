@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="regression" >
+<parameter name=" browser" value="chrome"></parameter>
+
+<test name="it">
+
+<classes>
+
+<class name="TestNG.Books">
+
+
+</class>
+</classes>
+
+
+</test>
+
+
+
+
+
+
+</suite>
